@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samyak112
+- 👋 Hi, I’m Samyak
 - 👀 I’m interested in Python and web development
 - 🌱 I’m currently learning Back end development
 - 💞️ I’m looking to collaborate on ...
