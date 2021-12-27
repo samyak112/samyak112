@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samyak112
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and web development
+- 🌱 I’m currently learning Back end development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samyakj725@gmail.com
+- 📫 How to reach me samyakjain092@gmail.com
 
 <!---
 samyak112/samyak112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
