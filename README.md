@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samyak
 - 👀 I’m interested in Python and web development
-- 🌱 I’m currently learning Back end development
+- 🌱 I’m currently making fullstack projects
 - 💞️ I’m looking to collaborate on open source as much as i can
 - 📫 How to reach me samyakjain092@gmail.com
 
