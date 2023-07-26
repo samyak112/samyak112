@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samyak
-- 👀 I’m interested Full Stack Web development
-- 🌱 I’m currently developing fullstack projects
-- 💞️ I’m looking to Contribute on open source as much as I can
+- 👀 I’m interested in Full Stack Web development
+- 🌱 I’m currently developing full-stack projects
+- 💞️ I’m looking to Contribute to open source as much as I can
 - 📫 How to reach me samyakjain092@gmail.com
 - 📚 You can read my blogs at https://dev.to/samyak112
 
