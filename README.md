@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samyak
-- 👀 I’m interested in Full Stack Web development
+- 👀 I’m interested in no stack but creating things
 - 🌱 I’m currently developing full-stack projects
 - 💞️ I’m looking to Contribute to open source as much as I can
 - 📫 How to reach me samyakjain092@gmail.com
