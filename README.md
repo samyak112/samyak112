@@ -5,7 +5,7 @@
 
 ### Glad to see you here!
 
-Currently working as Software Engineer at  [LegalGraph](https://legalgraph.ai/). As I mentioned before am Interested more in the formulating the solution of the problem shown to me instead of the technology used to do so. Not a Fan of DSA but still read about random tech topics to keep increasing my Knowledge. Love to write whenever I learn something new whether a technology or some concept related to software engineering.
+Currently working as Software Engineer at  [LegalGraph](https://legalgraph.ai/). Interested more in the formulating the solution of the problem shown to me instead of the technology used to do so. Like to read about random tech concepts to keep increasing my Knowledge. Love to write whenever I learn something new whether a technology or some concept related to software engineering.
 
 <img align="right" alt="actual coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF3MzFlMzg5OGkzN2I1MXhxdngzbWl0anlmNWYzNzYwbzdiaWQyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rcOlpTCkM1GAE/giphy.gif">
 
