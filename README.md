@@ -1,7 +1,9 @@
 
 ## Hey 👋, I'm  Samyak!
 
-[![Linkedin Badge](https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/samyak-jain-835a66194/)  [![Twitter Badge](https://camo.githubusercontent.com/0ac419eb4df53beeb48c20e036e8d66b075b28a56450d37427ee975d5e73ab75/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/samyakjain092)  [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/samyak112)
+- [LinkedIn](https://www.linkedin.com/in/samyak-jain-835a66194/)
+- [Twitter](https://twitter.com/samyakjain092)
+- [Dev.to Blog](https://dev.to/samyak112)
 
 ### Glad to see you here!
 
