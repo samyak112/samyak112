@@ -18,4 +18,4 @@
 - Fun fact **Frontend Developers do more than just beautifying JSON**
 
 - [LinkedIn](https://www.linkedin.com/in/samyak-jain-835a66194/)
-- [Twitter](https://twitter.com/samyakjain092
+- [Twitter](https://twitter.com/samyakjain092)
